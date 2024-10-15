@@ -34,6 +34,8 @@ geospatial analytics.
   [Redis](https://www.geomesa.org/documentation/tutorials/geomesa-quickstart-redis.html) |
   [FileSystem](https://www.geomesa.org/documentation/current/tutorials/geomesa-quickstart-fsds.html)
 * [Tutorials](https://www.geomesa.org/tutorials/)
+* [![](https://img.shields.io/badge/Gurubase-Ask%20Geomasa%20Guru-006BFF)](https://gurubase.io/g/geomesa)
+
 
 ## Downloads
 
